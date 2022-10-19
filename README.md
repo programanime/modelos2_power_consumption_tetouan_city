@@ -1,10 +1,10 @@
 # Autores
-Daniel Alejandro Molina Yepes - 1128442271
-Dorian Alexander Jaramillo - 1128442271
+- Daniel Al1ejandro Molina Yepes - 1128442271
+- Dorian Alexander Jaramillo - 1128442271
 
 # Forecasting On Power Consumption Of Tetouan City
 
-La energía juega un papel trascendental en la economía de un país; por tanto, la predicción del consumo de energía se convierte en un
+La energía juega un papel trascendental en la economía de un país, por tanto, la predicción del consumo de energía se convierte en un
 problema de vital importancia para la toma de decisiones con el fin de cubrir la demanda requerida para un tiempo o temporada específica.
 
 El presente proyecto tiene como objetivo principal el desarrollo de un modelo de predicción de consumo de energía eléctrica en la ciudad de Tetouan, Marruecos, con el fin de predecir el consumo de energía en un intervalo de 24 horas y así poder tomar decisiones con respecto a la generación de energía eléctrica.
@@ -30,7 +30,7 @@ En el siguiente Colab podrás acceder a la [implementación](https://colab.resea
 1. Abrir el siguiente enlace [Colab](https://colab.research.google.com/github/programanime/modelos2_power_consumption_tetouan_city/blob/main/Entrega_II_Power_consumption_of_Tetouan_city.ipynb)
 2. Clic en Runtime -> Run All
 
-> Nota: puede tomar mucho tiempo en correr y en ocasiones puede que se caiga el entorno de ejecución.
+> Nota: puede tomar mucho tiempo en correr y en ocasiones puede que el kernel se reinicie dependiendo de la capacidad de tu colab.
 
 ## Instrucciones para ejecutarlo en tu maquina
 1. Instalar Python3, Git, Visual Studio Code y la extensión de Jupyter para Visual Studio Code
