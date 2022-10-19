@@ -21,7 +21,7 @@ Los modelos serán aplicados variando
 algunos parámetros y seleccionando aquel para el cual se obtengan los mejores resultados.
 
 ## Artículo
-En el siguiente enlace podrás  acceder al [artículo]() de investigación de este proyecto, donde se presentan los resultados de aplicar cada uno de los modelos de Machine Learning.
+En el siguiente enlace podrás  acceder al [artículo](https://raw.githubusercontent.com/programanime/modelos2_power_consumption_tetouan_city/main/Entrega_II_-_Power_consumption_of_Tetouan_city.pdf) de investigación de este proyecto, donde se presentan los resultados de aplicar cada uno de los modelos de Machine Learning.
 
 ## Colab
 En el siguiente Colab podrás acceder a la [implementación](https://colab.research.google.com/github/programanime/modelos2_power_consumption_tetouan_city/blob/main/Entrega_II_Power_consumption_of_Tetouan_city.ipynb) de este proyecto, donde se realiza un EDA seguido de un entrenamiento para cada uno de los algoritmos de Machine Learning mencionados previamente.
