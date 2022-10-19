@@ -20,7 +20,7 @@ un problema de regresión se utilizaran los siguientes modelos:
 Los modelos serán aplicados variando
 algunos parámetros y seleccionando aquel para el cual se obtengan los mejores resultados.
 
-## Articulo
+## Artículo
 En el siguiente enlace podrás  acceder al [artículo]() de investigación de este proyecto, donde se presentan los resultados de aplicar cada uno de los modelos de Machine Learning.
 
 ## Colab
