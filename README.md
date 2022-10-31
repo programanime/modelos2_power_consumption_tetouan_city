@@ -23,6 +23,12 @@ algunos parámetros y seleccionando aquel para el cual se obtengan los mejores r
 ## Artículo
 En el siguiente enlace podrás  acceder al [artículo](https://raw.githubusercontent.com/programanime/modelos2_power_consumption_tetouan_city/main/Entrega_Final_Power_consumption_of_Tetouan_city.pdf) de investigación de este proyecto, donde se presentan los resultados de aplicar cada uno de los modelos de Machine Learning.
 
+## Video
+[video sustentatión](https://drive.google.com/file/d/1Tt1KTU_gPIK0Cx9uK__vwgGAFzjpshNO/view?usp=sharing)
+
+## Presentación
+[presentación] (https://docs.google.com/presentation/d/1-skv2nRMLF2GxM7QjnBgf7Gf3_KfbK1i/edit?usp=sharing&ouid=102328850684342192393&rtpof=true&sd=true)
+
 ## Colab
 En el siguiente Colab podrás acceder a la [implementación](https://colab.research.google.com/github/programanime/modelos2_power_consumption_tetouan_city/blob/main/Entrega_final_Power_consumption_of_Tetouan_city.ipynb) de este proyecto, donde se realiza un EDA seguido de un entrenamiento para cada uno de los algoritmos de Machine Learning mencionados previamente.
 
