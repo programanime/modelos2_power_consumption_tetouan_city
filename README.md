@@ -21,13 +21,13 @@ Los modelos serán aplicados variando
 algunos parámetros y seleccionando aquel para el cual se obtengan los mejores resultados.
 
 ## Artículo
-En el siguiente enlace podrás  acceder al [artículo](https://raw.githubusercontent.com/programanime/modelos2_power_consumption_tetouan_city/main/Entrega_II_-_Power_consumption_of_Tetouan_city.pdf) de investigación de este proyecto, donde se presentan los resultados de aplicar cada uno de los modelos de Machine Learning.
+En el siguiente enlace podrás  acceder al [artículo](https://raw.githubusercontent.com/programanime/modelos2_power_consumption_tetouan_city/main/Entrega_Final_Power_consumption_of_Tetouan_city.pdf) de investigación de este proyecto, donde se presentan los resultados de aplicar cada uno de los modelos de Machine Learning.
 
 ## Colab
-En el siguiente Colab podrás acceder a la [implementación](https://colab.research.google.com/github/programanime/modelos2_power_consumption_tetouan_city/blob/main/Entrega_II_Power_consumption_of_Tetouan_city.ipynb) de este proyecto, donde se realiza un EDA seguido de un entrenamiento para cada uno de los algoritmos de Machine Learning mencionados previamente.
+En el siguiente Colab podrás acceder a la [implementación](https://colab.research.google.com/github/programanime/modelos2_power_consumption_tetouan_city/blob/main/Entrega_final_Power_consumption_of_Tetouan_city.ipynb) de este proyecto, donde se realiza un EDA seguido de un entrenamiento para cada uno de los algoritmos de Machine Learning mencionados previamente.
 
 ## Instrucciones Colab
-1. Abrir el siguiente enlace [Colab](https://colab.research.google.com/github/programanime/modelos2_power_consumption_tetouan_city/blob/main/Entrega_II_Power_consumption_of_Tetouan_city.ipynb)
+1. Abrir el siguiente enlace [Colab](https://colab.research.google.com/github/programanime/modelos2_power_consumption_tetouan_city/blob/main/Entrega_final_Power_consumption_of_Tetouan_city.ipynb)
 2. Clic en Runtime -> Run All
 
 > Nota: puede tomar mucho tiempo en correr y en ocasiones puede que el kernel se reinicie dependiendo de la capacidad de tu colab.
@@ -42,5 +42,5 @@ git clone https://github.com/programanime/modelos2_power_consumption_tetouan_cit
 ```shell
 pip install -r requirements.txt
 ```
-3. Abrir el archivo `Entrega_II_Power_consumption_of_Tetouan_city.ipynb` con Visual Studio Code
+3. Abrir el archivo `Entrega_final_Power_consumption_of_Tetouan_city.ipynb` con Visual Studio Code
 4. Hacer click en "Run All"
